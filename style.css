@@ -15,3 +15,15 @@
 section {
   padding-top: 6rem;
 }
+/* hp */
+@media (max-width: 576px) {
+  html {
+    font-size: 60%;
+  }
+  .jumbotron img {
+    width: 30%;
+    background-color: #e2edff00;
+    background-position-x: center;
+    border-color: #e2edff00;
+  }
+}

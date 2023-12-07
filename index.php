@@ -46,7 +46,7 @@
   <!-- akhir nav -->
   <!-- jumbrotn -->
   <section class="jumbotron text-center an">
-    <img src="img/Nirman.png" alt="Aan" class="rounded-circle img-thumbnail" />
+    <img src="img/Nirman.png" alt="Aan" class=" img-thumbnail" />
     <h1 class="display-4 fw-bold">Mohammad Nirman</h1>
     <p class="lead">Mahasiswa | Conten Creator</p>
 
